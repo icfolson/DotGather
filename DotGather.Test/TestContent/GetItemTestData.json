@@ -1,0 +1,161 @@
+﻿{
+  "data": {
+    "id": 2505897,
+    "project_id": 70052,
+    "parent_id": 0,
+    "template_id": 300229,
+    "custom_state_id": 319146,
+    "position": "2",
+    "name": "Root Node 1",
+    "config": [
+      {
+        "label": "Content",
+        "name": "tab1455554966188",
+        "hidden": false,
+        "elements": [
+          {
+            "type": "text",
+            "name": "el1455554968826",
+            "required": false,
+            "label": "RichText Field No Limit",
+            "value": "<p>\n    hai!\n</p>",
+            "microcopy": "",
+            "limit_type": "words",
+            "limit": 0,
+            "plain_text": false
+          },
+          {
+            "type": "text",
+            "name": "el1455555029203",
+            "required": false,
+            "label": "RichText Field with word limit",
+            "value": "<p>\n    I can only write up to ten words in this...\n</p>",
+            "microcopy": "",
+            "limit_type": "words",
+            "limit": 10,
+            "plain_text": false
+          },
+          {
+            "type": "text",
+            "name": "1455555068487",
+            "required": false,
+            "label": "RichText Field with char limit",
+            "value": "<p>\n    only ten, but not enforced\n</p>",
+            "microcopy": "",
+            "limit_type": "chars",
+            "limit": 10,
+            "plain_text": false
+          },
+          {
+            "type": "text",
+            "name": "el1455555000626",
+            "required": false,
+            "label": "Plain Text Field",
+            "value": "just some words here​",
+            "microcopy": "",
+            "limit_type": "words",
+            "limit": 0,
+            "plain_text": true
+          },
+          {
+            "type": "files",
+            "name": "el1455555089568",
+            "required": false,
+            "label": "Attachment Field",
+            "microcopy": ""
+          },
+          {
+            "type": "section",
+            "name": "el1455555116806",
+            "title": "Guidelines Field",
+            "subtitle": "<p>​these are the notes</p>"
+          },
+          {
+            "type": "choice_checkbox",
+            "name": "el1455555139415",
+            "required": false,
+            "label": "Checkbox Field",
+            "microcopy": "",
+            "options": [
+              {
+                "name": "op1455555139416",
+                "label": "First choice",
+                "selected": true
+              },
+              {
+                "name": "op1455555139417",
+                "label": "Second choice",
+                "selected": false
+              },
+              {
+                "name": "op1455555139418",
+                "label": "Third choice",
+                "selected": true
+              }
+            ]
+          },
+          {
+            "type": "choice_radio",
+            "name": "el1455555159463",
+            "required": false,
+            "label": "Multi Select Field",
+            "microcopy": "",
+            "other_option": true,
+            "options": [
+              {
+                "name": "op1455555159464",
+                "label": "First choice",
+                "selected": false
+              },
+              {
+                "name": "op1455555159465",
+                "label": "Second choice",
+                "selected": false
+              },
+              {
+                "name": "op1455555159466",
+                "label": "Third choice",
+                "selected": true
+              },
+              {
+                "name": "op1455555184849",
+                "label": "Other",
+                "selected": false,
+                "value": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "notes": "",
+    "type": "item",
+    "overdue": false,
+    "archived_by": null,
+    "archived_at": null,
+    "created_at": {
+      "date": "2016-02-15 16:53:55",
+      "timezone_type": 3,
+      "timezone": "UTC"
+    },
+    "updated_at": {
+      "date": "2016-03-30 15:36:39",
+      "timezone_type": 3,
+      "timezone": "UTC"
+    },
+    "status": {
+      "data": {
+        "id": "319146",
+        "is_default": true,
+        "position": "1",
+        "color": "#C5C5C5",
+        "name": "Draft",
+        "description": "",
+        "can_edit": true
+      }
+    },
+    "due_dates": {
+      "data": [ ]
+    }
+  }
+}

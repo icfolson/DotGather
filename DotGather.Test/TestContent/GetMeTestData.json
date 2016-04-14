@@ -1,0 +1,28 @@
+﻿{
+  "data": {
+    "email": "Will.Sharp@icfi.com",
+    "first_name": "Will",
+    "last_name": "Sharp",
+    "timezone": "UM5",
+    "language": null,
+    "gender": null,
+    "avatar": "187934_74UTWmb2K0aH8eDTBFzOeBjpMC6Vin5wFH591gWxocSGp2lvttUu2WURXryw9xxM.jpg",
+    "announcements": [
+      {
+        "id": "1",
+        "name": "inline_comments",
+        "acknowledged": false
+      },
+      {
+        "id": "2",
+        "name": "templates",
+        "acknowledged": false
+      },
+      {
+        "id": "3",
+        "name": "workflow",
+        "acknowledged": false
+      }
+    ]
+  }
+}
